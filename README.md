@@ -12,7 +12,7 @@
 
 
 ## Guide 
-Installe les fichiers en .zip sur l'icone `code` 
+Installe les fichiers en .zip sur l'icone `code` <br>
 
   <img src="https://cdn.discordapp.com/attachments/1139569734271119381/1258834354189369416/240705_17h35m19s_screenshot.png?ex=66897c5a&is=66882ada&hm=21ad40433933c4b7b7e830576aa623e7322501f1208c5d4e9d5151660c3a32fc&">
 
